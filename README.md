@@ -20,5 +20,4 @@
 ###
 
 <h2 align="left">vai se fuder</h2>
-- pedro samuel ama o pc siqueira
-- yuri furry 
+- pedro samuel ama o pc siqueira e o yuri eh furry
