@@ -20,4 +20,5 @@
 ###
 
 <h2 align="left">vai se fuder</h2>
-- pedro samuel estuprado
+- pedro samuel ama o pc siqueira
+- yuri furry 
