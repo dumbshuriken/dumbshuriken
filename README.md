@@ -1,23 +1,24 @@
-<h2 align="left">Hi 🦇! Meu nome é Shuri</h2>
+<div align="center">
 
-###
+<h1> Perfil do Shuri </h1>
 
-<img width="374" height="224" alt="image" src="https://github.com/user-attachments/assets/e779b6bb-b103-4768-8740-34d584fb5773" />
+<p><i>Aprendendo design e programação.</i></p>
 
+<hr>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
 </div>
 
-###
 
-<img width="498" height="364" alt="image" src="https://github.com/user-attachments/assets/28d98cba-6fa9-40a1-ab92-fb9eba462209" />
+## Sobre mim
 
+Oi! To começando a aprender programação e design.
 
-###
+<img src= "https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Python-Dark.svg" width="34"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/JavaScript.svg" width="32"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/HTML.svg" width="32"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/CSS.svg" width="32">
 
-<h2 align="left">vai se fuder</h2>
-- pedro samuel ama o pc siqueira e o yuri eh furry
+## ☁️ Meus projetos
+
+- Em breve...
+
+## Minhas redes
+<a href="https://steamcommunity.com/id/dumbshuriken/"><img src="https://frutigeraeroarchive.org/images/icons/gaming/steam1.ico" width="32"></a> <a href="https://www.roblox.com/pt/users/664776420/profile"><img src="https://frutigeraeroarchive.org/images/icons/gaming/robloxstudio.ico" width="34"></a><a href="COLE_O_LINK_AQUI"><img src="https://frutigeraeroarchive.org/images/icons/mobile/ios/instagram.png" width="32"></a>
+
