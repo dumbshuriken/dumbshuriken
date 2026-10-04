@@ -33,6 +33,14 @@ Oi! To começando a aprender programação e design.
 
 <div align="center">
   <img src="https://frutigeraeroarchive.org/images/resources/metro/metro_72.png" width="35%">
+<br>
+<br>
+<br>
+<br>
+  <p align="center">
+  Você é o visitante número<br>
+  <kbd>0</kbd><kbd>0</kbd><kbd>0</kbd><kbd>0</kbd><kbd>6</kbd><kbd>9</kbd>
+</p>
 
 
 
