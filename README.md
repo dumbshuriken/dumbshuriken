@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><img src="https://frutigeraeroarchive.org/images/icons/windows_vista/vista_console.ico" width="50" align="absmiddle"> Perfil do Shuri</h1>
+<h1><img src="https://frutigeraeroarchive.org/images/icons/windows_vista/vista_console.ico" width="50" align="absmiddle"> Oi, eu sou o Shuri</h1>
 
 <p><i>Aprendendo design e programação.</i></p>
 
